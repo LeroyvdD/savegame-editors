@@ -6,7 +6,36 @@ Locale.add('ko', {
 	and start translating to your language
 */
 
-
+Weapon_Sword_018:'Savage Lynel Sword',
+Weapon_Sword_200:'Seized Construct Sword',
+Weapon_Sword_Ganondorf:'Flaming Sword of the Demon King',
+Weapon_Lsword_300:'Death Bringer',
+Weapon_Lsword_666:'Harbinger of Chaos',
+Weapon_Lsword_018:'Savage Lynel Crusher',
+Weapon_Lsword_200:'Seized Construct Longsword',
+Weapon_Spear_018:'Savage Lynel Spear',
+Weapon_Spear_017:'Mighty Lynel Spear',
+Weapon_Spear_200:'Seized Construct Spear',
+Weapon_Spear_Ganondorf:'Thunder Spear of the Demon King',
+Weapon_Bow_200:'Seized Construct Bow',
+Weapon_Shield_200:'Seized Construct Shield',
+Item_Enemy_910:'Burning Demonic Gleeok Horn',
+Item_Enemy_911:'Freezing Demonic Gleeok Horn',
+Item_Enemy_912:'Shocking Demonic Gleeok Horn',
+Item_Enemy_909:'Seized Captain Construct Horn',
+Item_Enemy_902_R:'Moblin Tyrant Horn',
+Item_Enemy_904_R:'Horriblin Tyrant Horn',
+Item_Enemy_907:'Golden Lynel Mace Horn',
+Item_Enemy_916:'Mother Frox Fang',
+Item_Enemy_Ganondorf:'Wrath of the Demon King',
+Item_Enemy_908:'Seized Soldier Construct Horn',
+Item_Enemy_906:'Golden Lynel Saber Horn',
+Item_Enemy_906_R:'Blazing Lynel Tyrant Horn',
+Item_Enemy_906_RR:'Frigid Lynel Tyrant Horn',
+Item_Enemy_906_RRR:'Charged Lynel Tyrant Horn',
+Item_Enemy_903_R:'Lizalfos Tyrant Horn',
+Item_Enemy_905_R:'Boss Bokoblin Tyrant Horn',
+Item_Enemy_901_R:'Bokoblin Tyrant Horn',
 
 
 /* fusable only materials */
