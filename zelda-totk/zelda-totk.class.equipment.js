@@ -425,6 +425,7 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Bow_128:60,
 	Weapon_Bow_129:60,
 	Weapon_Bow_166_For_Ganondorf:42,
+	Weapon_Bow_200:46,
 
 	Weapon_Shield_001:12,
 	Weapon_Shield_001_NoBurned:12,
@@ -471,6 +472,7 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_RaumiGolem_Left:20,
 	Weapon_RaumiGolem_Right:20,
 	Weapon_DungeonBossZonau:20,
+	Weapon_Shield_200:30,
 	Weapon_Goron_Knuckle:20
 };
 
@@ -528,6 +530,10 @@ Equipment.FUSE_DURABILITY={
 	Weapon_Sword_152_Sub:25,
 	Demo910_Torch:25,
 	Weapon_Sword_043_SetFire:25,
+	Weapon_Sword_018:30,
+	Weapon_Sword_200:50,
+	Weapon_Sword_Ganondorf:34,
+
 
 	Weapon_Lsword_001:25,
 	Weapon_Lsword_002:25,
@@ -567,6 +573,10 @@ Equipment.FUSE_DURABILITY={
 	Weapon_Lsword_166:10,
 	Weapon_Lsword_168:25,
 	Weapon_Lsword_174:25,
+	Weapon_Lsword_300:84,
+	Weapon_Lsword_666:80,
+	Weapon_Lsword_018:25,
+	Weapon_Lsword_200:40,
 	Weapon_Spear_001:25,
 	Weapon_Spear_002:25,
 	Weapon_Spear_003:25,
@@ -603,6 +613,10 @@ Equipment.FUSE_DURABILITY={
 	Weapon_Spear_166:10,
 	Weapon_Spear_168:25,
 	Weapon_Spear_173:25,
+	Weapon_Spear_018:40,
+	Weapon_Spear_017:35,
+	Weapon_Spear_200:65,
+	Weapon_Spear_Ganondorf:40,
 
 	Weapon_RaumiGolem_Left: 25,
 	Weapon_RaumiGolem_Right: 25,
@@ -666,6 +680,9 @@ Equipment.AVAILABILITY={
 		'Npc_Zelda_Torch', //*Zelda's intro torch (unused)
 		'Demo910_Torch', //Zelda's intro torch (alternate, unused)
 		'Weapon_Sword_043_SetFire', //Self Lighting Torch (unused)
+		'Weapon_Sword_018', // Savage Lynel Sword
+		'Weapon_Sword_200', // Seized Construct Sword
+		'Weapon_Sword_Ganondorf', // Flaming Sword of the Demon King
 
 		'Weapon_Lsword_174', //Giant Boomerang (decayed)
 		'Weapon_Lsword_051', //Giant Boomerang
@@ -704,6 +721,10 @@ Equipment.AVAILABILITY={
 		'Weapon_Lsword_166', //Gloom Club
 		'Weapon_Lsword_045', //Farming Hoe
 		'Weapon_Lsword_038', //Boat Oar
+		'Weapon_Lsword_300', // Death Bringer
+		'Weapon_Lsword_666', // Harbinger of Chaos
+		'Weapon_Lsword_018', // Savage Lynel Crusher
+		'Weapon_Lsword_200', // Seized Construct Longsword
 		
 		'Weapon_Lsword_154', //Yunobo's Boulder Breaker
 
@@ -741,6 +762,10 @@ Equipment.AVAILABILITY={
 		'Weapon_Spear_166', //Gloom Spear
 		'Weapon_Spear_036', //Wooden Mop
 		'Weapon_Spear_022', //Farmer's Pitchfork
+		'Weapon_Spear_018', // Savage Lynel Spear
+		'Weapon_Spear_017', // Mighty Lynel Spear
+		'Weapon_Spear_200', // Seized Construct Spear
+		'Weapon_Spear_Ganondorf' // Thunder Spear of the Demon King
 		
 		'Weapon_Spear_036_MercenarySoldier', // Wooden Mop (Mercenary Version)
 		'Weapon_Spear_150', //Sidon's Lightscale Trident
@@ -782,6 +807,7 @@ Equipment.AVAILABILITY={
 		'Weapon_Bow_105', //Strong Construct Bow
 		'Weapon_Bow_106', //Mighty Construct Bow
 		'Weapon_Bow_101', //Zonaite Bow
+		'Weapon_Bow_200', // Seized Construct Bow
 		'Weapon_Bow_166', //Demon King's Bow
 
 		'Weapon_Bow_016_Event', //Tulin's Swallow Bow
@@ -824,6 +850,7 @@ Equipment.AVAILABILITY={
 		'Weapon_Shield_101', //Zonaite Shield
 		'Weapon_Shield_102', //Strong Zonaite Shield
 		'Weapon_Shield_103', //Mighty Zonaite Shield
+		'Weapon_Shield_200', // Seized Construct Shield
 		'Weapon_Shield_040', //Pot Lid
 
 		'Weapon_Shield_001_NoBurned', //Wooden Shield (Selmie's Spot)
