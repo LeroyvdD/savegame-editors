@@ -411,6 +411,23 @@ Item.AVAILABILITY={
 		'Item_Enemy_229', //Shard of Naydra's Spike
 		'Item_Enemy_230', //Shard of Farosh's Spike
 		'Item_Enemy_231', //Shard of Light Dragon's Spike
+		'Item_Enemy_910', //Burning Demonic Gleeok Horn
+		'Item_Enemy_911', //Freezing Demonic Gleeok Horn
+		'Item_Enemy_912', //Shocking Demonic Gleeok Horn
+		'Item_Enemy_909', //Seized Captain Construct Horn
+		'Item_Enemy_902_R', //Moblin Tyrant Horn
+		'Item_Enemy_904_R', //Horriblin Tyrant Horn
+		'Item_Enemy_907', //Golden Lynel Mace Horn
+		'Item_Enemy_916', //Mother Frox Fang
+		'Item_Enemy_Ganondorf', //Wrath of the Demon King
+		'Item_Enemy_908', //Seized Soldier Construct Horn
+		'Item_Enemy_906', //Golden Lynel Saber Horn
+		'Item_Enemy_906_R', //Blazing Lynel Tyrant Horn
+		'Item_Enemy_906_RR', //Frigid Lynel Tyrant Horn
+		'Item_Enemy_906_RRR', //Charged Lynel Tyrant Horn
+		'Item_Enemy_903_R', //Lizalfos Tyrant Horn
+		'Item_Enemy_905_R', //Boss Bokoblin Tyrant Horn
+		'Item_Enemy_901_R', //Bokoblin Tyrant Horn
 
 		'Item_FishGet_A', //Hyrule Bass
 		'Item_FishGet_AA', //Ancient Arowana
